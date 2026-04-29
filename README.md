@@ -124,8 +124,8 @@ class D,D1,D2,E api;
 src/assets/images/image1.png
 
 
-![Home] src/assets/images/image2.png
-![Modal] src/assets/images/image3.png
+![Home] (src/assets/images/image2.png)
+![Modal] (src/assets/images/image3.png)
 
 
 ---
