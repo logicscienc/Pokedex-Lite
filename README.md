@@ -121,14 +121,9 @@ class D,D1,D2,E api;
 
 ## 📸 Screenshots
 
-(./Screenshorts/image1.png)
-
-
-![Home] (./Screenshorts/image2.png)
-![Modal] (./Screenshorts/image3.png)
-
-
----
+![Home](./screenshots/image1.png)
+![Grid](./screenshots/image2.png)
+![Modal](./screenshots/image3.png)
 
 ## ⚔️ Challenges Faced & How I solved them
 
