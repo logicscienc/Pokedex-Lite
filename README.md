@@ -121,12 +121,12 @@ class D,D1,D2,E api;
 
 ## 📸 Screenshots
 
-https://github.com/logicscienc/Pokedex-Lite/blob/main/src/assets/images/image1.png
+src/assets/images/image1.png
 
-```
-![Home] https://github.com/logicscienc/Pokedex-Lite/blob/main/src/assets/images/image2.png
-![Modal] https://github.com/logicscienc/Pokedex-Lite/blob/main/src/assets/images/image3.png
-```
+
+![Home] src/assets/images/image2.png
+![Modal] src/assets/images/image3.png
+
 
 ---
 
