@@ -121,11 +121,11 @@ class D,D1,D2,E api;
 
 ## 📸 Screenshots
 
-src/assets/images/image1.png
+(Screenshorts/image1.png)
 
 
-![Home] (src/assets/images/image2.png)
-![Modal] (src/assets/images/image3.png)
+![Home] (Screenshorts/image2.png)
+![Modal] (Screenshorts/image3.png)
 
 
 ---
